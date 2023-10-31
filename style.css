@@ -1,0 +1,29 @@
+#UstArama {
+    width: 300px;
+}
+.UstKutu {
+    background-color:#EEEEEE;
+    width: 90%; 
+}
+.SolKutu {
+    background-color: #7EE5DA;
+    width: 35%;
+    font-size: medium;
+} 
+.OrtaKutu {
+    background-color: #70CCC2;       
+    width: 20%;
+    font-size: small;
+}
+.SagKutu {
+    background-color: #62B3AA;
+    width: 35%; 
+    font-size: small;    
+}
+table {
+    min-width: 90%;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
